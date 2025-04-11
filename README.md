@@ -9,7 +9,8 @@ This machine learning project aims to predict whether a company will succeed or 
 - Evaluation using accuracy, precision, recall, and confusion matrix
 
 ## 📁 Dataset
-The dataset contains financial and registration details of UK companies, sourced from Company House. Key features include company status, incorporation date, and financial metrics.
+The dataset used in this project is available in this repository under the file `company_house_data.csv`. This dataset contains financial and organizational data of UK-registered companies. 
+You can directly access it in this repository by clicking on the `company_house_data.csv` file.
 
 ## 🛠️ Tools Used
 - Python
